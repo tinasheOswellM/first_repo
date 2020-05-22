@@ -1,2 +1,2 @@
 print("hello world")
-print("second print statement")
+print("second print statements")
